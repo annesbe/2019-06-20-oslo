@@ -233,7 +233,7 @@ e.g., '2015-06-10-esu'.
 
 <hr/>
 
-{% comment %}
+
 SYLLABUS
 
 Show what topics will be covered.
